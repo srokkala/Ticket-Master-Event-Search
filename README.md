@@ -33,3 +33,6 @@ A basic FastAPI backend to search for events using the Ticketmaster API.
 ## Testing
 - Run tests with: `pytest --cov=app`
 - This will also show test coverage statistics.
+- For speed, I aimed for ~90% coverage
+<img width="1139" alt="Screenshot 2025-04-12 at 1 55 53 PM" src="https://github.com/user-attachments/assets/c573b9c0-b33b-42a1-a380-6484f83a0760" />
+
